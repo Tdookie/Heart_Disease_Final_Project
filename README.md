@@ -1,4 +1,4 @@
-# Immigration_Final_Project
+# Heart_Disease_Final_Project
 
 ## Selected topic
 ## Reason why they selected their topic 
