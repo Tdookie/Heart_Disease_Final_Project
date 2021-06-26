@@ -18,4 +18,4 @@ SciKitLearn is the ML library we'll be using to create a classifier.
 We will visually represent our prediction/findings using Tableau.
 
  
-##  The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted
+
