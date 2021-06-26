@@ -1,7 +1,5 @@
 # Immigration_Final_Project
 
-
-
 ## Selected topic
 Our topic is on Immigration. We chose this topic because we would like to predict future immigration trends for upcoming years based on data gathered in the past.
 
