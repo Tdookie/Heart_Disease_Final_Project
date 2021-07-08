@@ -1,6 +1,7 @@
 # Heart Disease Final Project
 
-## Reason why they selected their topic 
+## Reason why they selected their topic x
+
 ## Description of their source of data
 ## Questions they hope to answer with the data
 ## Description of the communication protocols
